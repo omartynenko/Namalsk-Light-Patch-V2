@@ -1,6 +1,5 @@
 #define _ARMA_
 
-//Class D:/Downloads/namalsk_light_patch/nst/namalsk_light_patch/config.bin{
 class CfgPatches
 {
 	class namalsk_light_patch
